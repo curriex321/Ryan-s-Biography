@@ -48,20 +48,12 @@ with st.container():
 
 socials = {
     "Instagram": {
-        "url": "https://www.instagram.com/void.jhin?igsh=cjBvZ3Q0Y2cydGhw&utm_source=qr",
+        "url": "https://www.instagram.com/curriedawson01/profilecard/?igsh=MXhtdTZsejQ5eDNiMg==",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
     },
     "Facebook": {
         "url": "https://www.facebook.com/share/nUCFEEMoznRVhzP7/",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
-    },
-    "YouTube": {
-        "url": "https://youtube.com/@jh1nnn?si=GIJJi-F2owKva6Jk",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png"
-    },
-    "TikTok": {
-        "url": "https://www.tiktok.com/@void.jhin?_t=8rhhjah9Zii&_r=1",
-        "logo": "https://i.pinimg.com/736x/f0/a6/ae/f0a6ae3415974dcdf7f165a287456be7.jpg"
     }
 }
 
