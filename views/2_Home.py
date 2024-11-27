@@ -18,7 +18,7 @@ lottie_coding = load_lottieurl("https://lottie.host/89abf601-d767-4328-b0ab-76e2
 
 # Streamlit layout
 with st.container():
-    st.title("Welcome to Enzo's Biography!")
+    st.title("Welcome to Ryan's Biography!")
 
 with st.container():
     st.write("---")
@@ -28,7 +28,7 @@ with st.container():
         st.header("Who am I?")
         st.write(
             """
-            Hi, I'm **Lorenz Pio G. Chua**. 
+            Hi, I'm **Joseph Ryan B. Ruperez**. 
 
             A first-year **Computer Engineering** student from **Surigao del Norte State University**.
 
