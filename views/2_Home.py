@@ -52,7 +52,7 @@ socials = {
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
     },
     "Facebook": {
-        "url": "https://www.facebook.com/share/1FUaYY54xv/?mibextid=LQQJ4d",
+        "url": "https://www.facebook.com/share/nUCFEEMoznRVhzP7/",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
     },
     "YouTube": {
