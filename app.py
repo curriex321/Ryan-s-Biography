@@ -3,7 +3,7 @@ from streamlit_lottie import st_lottie
 import requests
 
 # Set Streamlit page configuration (must be first Streamlit command)
-st.set_page_config(page_title="Biography ni Enzo", layout="wide")
+st.set_page_config(page_title="Biography of Ryan", layout="wide")
 
 # Page setup
 about_page = st.Page(
